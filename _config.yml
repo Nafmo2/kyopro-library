@@ -3,4 +3,4 @@ plugins:
 - jemoji
 - jekyll-redirect-from
 theme: jekyll-theme-minimal
-url: "https://nafmo.dev/library"
+url: https://nafmo.dev/
